@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#481162"
+    android:padding="10dp">
+
+    <TextView
+        android:id="@+id/messageMain"
+        android:layout_width="match_parent"
+        android:textColor="#FFFFFF"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="@string/hey"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"/>
+
+    <Space
+        android:layout_width="0dp"
+        android:layout_height="10dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#FFFFFF"
+        android:gravity="center_horizontal"
+        android:text="@string/why_you_shouldn_t_use_cracked_apps"
+        android:textAppearance="@style/TextAppearance.AppCompat.Headline" />
+
+    <Space
+        android:layout_width="0dp"
+        android:layout_height="10dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#FFFFFF"
+        android:text="@string/crackers_"
+        android:textAppearance="@style/TextAppearance.AppCompat.Button" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#FFFFFF"
+        android:text="@string/your_device_may_get_bricked"
+        android:textAppearance="@style/TextAppearance.AppCompat.Button" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/expose_"
+        android:textColor="#FFFFFF"
+        android:textAppearance="@style/TextAppearance.AppCompat.Button" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#FFFFFF"
+        android:text="@string/_cred"
+        android:textAppearance="@style/TextAppearance.AppCompat.Button" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/crashes_usage_issues"
+        android:textColor="#FFFFFF"
+        android:textAppearance="@style/TextAppearance.AppCompat.Button" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#FFFFFF"
+        android:text="@string/no_support"
+        android:textAppearance="@style/TextAppearance.AppCompat.Button" />
+
+    <Space
+        android:layout_width="0dp"
+        android:layout_height="20dp" />
+
+    <Button
+        android:id="@+id/apolo"
+        android:text="@string/i_understand"
+        android:layout_gravity="end"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/unlock"
+        android:text="@string/temporary_unlock"
+        android:layout_gravity="end"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content" />
+
+
+</LinearLayout>

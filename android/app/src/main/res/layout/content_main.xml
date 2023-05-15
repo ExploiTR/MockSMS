@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="hacks.exploitr.mockSms.MainActivity"
+    tools:showIn="@layout/activity_main">
+        <LinearLayout
+            android:id="@+id/adContainer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:text="@string/sender_phone_number" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+
+                android:orientation="horizontal">
+
+                <EditText
+                    android:id="@+id/contact_view"
+                    style="@style/Widget.AppCompat.EditText"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:ems="10"
+                    android:hint="@string/e_g_9153645"
+                    android:inputType="phone"
+                    android:maxLength="13" />
+
+                <Button
+                    android:id="@+id/pickNumber"
+                    style="@style/Widget.AppCompat.Button.Colored"
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:text="@string/pick" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/date"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:ems="10"
+                    android:gravity="center_vertical"
+                    android:hint="@string/_01_01_2000"
+                    android:paddingEnd="5dp"
+                    android:paddingStart="5dp"
+                    android:textSize="18sp" />
+
+                <Button
+                    android:id="@+id/pick_date"
+                    style="@style/Widget.AppCompat.Button.Colored"
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:text="@string/pick_date" />
+
+            </LinearLayout>
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/sms_type" />
+
+            <Spinner
+                android:id="@+id/types"
+                style="@style/Widget.AppCompat.Spinner.Underlined"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp" />
+
+            <Button
+                android:id="@+id/set_extra"
+                style="@style/Widget.AppCompat.Button.Colored"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/shape"
+                android:text="@string/set_extra_sms_properties" />
+
+            <Button
+                android:id="@+id/enable_extra"
+                style="@style/Widget.AppCompat.Button.Colored"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/shape"
+                android:text="@string/enable_extra_sms_properties" />
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="@string/enter_message_here" />
+
+            <EditText
+                android:id="@+id/messageMain"
+                style="@style/Widget.AppCompat.EditText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="top|start"
+                android:hint="@string/help_msg"
+                android:inputType="textMultiLine|textLongMessage"
+                android:maxLength="160"
+                android:minLines="4" />
+
+        </LinearLayout>
+</ScrollView>
+

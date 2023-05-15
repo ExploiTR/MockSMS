@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingEnd="25dp"
+    android:paddingStart="25dp"
+    android:paddingTop="10dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/sim_slot" />
+
+    <EditText
+        android:id="@+id/sim_slot"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:digits="1,2"
+        android:ems="10"
+        android:hint="@string/only_1_or_2_allowed"
+        android:inputType="number"
+        android:maxLength="1" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/sim_imsi" />
+
+    <EditText
+        android:id="@+id/imsi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/_19_char_integer"
+        android:inputType="number"
+        android:maxLength="19" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/service_center_number" />
+
+    <EditText
+        android:id="@+id/service_center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/_919900000005"
+        android:inputType="number|phone"
+        android:maxLength="13" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/time_difference_" />
+
+    <EditText
+        android:id="@+id/difference"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/max_999"
+        android:inputType="number"
+        android:maxLength="4" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/sms_status_for_sent_messages" />
+
+    <Spinner
+        android:id="@+id/status"
+        style="@style/Base.Widget.AppCompat.Spinner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:entries="@array/extra_spinner" />
+
+</LinearLayout>

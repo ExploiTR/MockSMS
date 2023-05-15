@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="extra_spinner">
+        <item>Status NONE</item>
+        <item>Status COMPLETE</item>
+        <item>Status PENDING</item>
+        <item>Status FAILED</item>
+    </string-array>
+</resources>

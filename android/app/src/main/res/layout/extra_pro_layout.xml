@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingEnd="25dp"
+    android:paddingStart="25dp"
+    android:paddingTop="10dp">
+
+    <Switch
+        android:id="@+id/read"
+        style="@style/Widget.AppCompat.CompoundButton.Switch"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="5dp"
+        android:paddingTop="5dp"
+        android:text="@string/sms_is_read" />
+
+    <Switch
+        android:id="@+id/seen"
+        style="@style/Widget.AppCompat.CompoundButton.Switch"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="5dp"
+        android:text="@string/sms_is_seen" />
+
+    <Switch
+        android:id="@+id/delivered"
+        style="@style/Widget.AppCompat.CompoundButton.Switch"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="5dp"
+        android:text="@string/sms_is_delivered" />
+
+    <Switch
+        android:id="@+id/slot"
+        style="@style/Widget.AppCompat.CompoundButton.Switch"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="5dp"
+        android:text="@string/enable_sim_slot" />
+
+    <Switch
+        android:id="@+id/imsi"
+        style="@style/Widget.AppCompat.CompoundButton.Switch"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="5dp"
+        android:text="@string/enable_sim_imsi" />
+
+    <Switch
+        android:id="@+id/reply_path"
+        style="@style/Widget.AppCompat.CompoundButton.Switch"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="5dp"
+        android:text="@string/enable_reply_path_present_for_sms_app" />
+
+    <Switch
+        android:id="@+id/service_center"
+        style="@style/Widget.AppCompat.CompoundButton.Switch"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="5dp"
+        android:text="@string/enable_service_center_details" />
+
+    <Switch
+        android:id="@+id/difference"
+        style="@style/Widget.AppCompat.CompoundButton.Switch"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="5dp"
+        android:text="@string/enable_creation_date" />
+
+    <Switch
+        android:id="@+id/status"
+        style="@style/Widget.AppCompat.CompoundButton.Switch"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="5dp"
+        android:text="@string/enable_status_for_sent_messages" />
+
+</LinearLayout>
