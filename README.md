@@ -1,4 +1,7 @@
 ![](https://raw.githubusercontent.com/ExploiTR/MockSMS/master/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
+# Announcing : MockSMS2
+The next version of MockSMS, under development! So this project is archived.
+
 # MockSMS
 Android application to create/craft fake sms.
 
