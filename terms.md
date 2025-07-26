@@ -1,6 +1,6 @@
 ## Terms and Conditions — MockSMS / MockSMX
 
-**Effective Date:** \[Insert Date]
+**Effective Date:** 27/07/2025  
 **Applies To:** MockSMS, MockSMX, MockSMS/MockSMX v2, or any application under the "Mock\*" name published by the Developer.
 
 ---
