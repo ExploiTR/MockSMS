@@ -1,65 +1,75 @@
-**Privacy Policy**
+### **Privacy Policy — MockSMS / MockSMX**
 
-**Effective Date:** 27-07-2025  
-**Developer:** Pratim Majumder  
-**App:** MockSMS, MockSMS/MockSMX v2, MockSMX - any Mock* app by me.  
-
-Pratim Majumder built the **MockSMS/MockSMX** app as an **Ad-Supported** application. This **Service** is provided at no cost and is intended for use *as-is*.
-
-This Privacy Policy is intended to inform users of our policies regarding the collection, use, and disclosure of Personal Information for those who choose to use the Service.
-
-By using the MockSMS/MockSMX app, you agree to the collection and use of information in accordance with this policy. The Personal Information collected is used solely for providing and improving the Service. Your information will not be shared with anyone except as described in this Privacy Policy.
-
-Unless otherwise defined in this document, the terms used herein have the same meanings as in our **Terms and Conditions**, which are accessible within the app.
+**TL;DR:**
+**MockSMS / MockSMX does not collect, store, or transfer any sensitive personally identifiable information (PII).**
+Some third-party services (like AdMob or Crashlytics) may collect basic device or diagnostic data to improve the app experience and serve ads.
 
 ---
 
-### Information Collection and Use
+**Effective Date:** 27/07/2025  
+**Developer:** Pratim Majumder  
+**Applies To:** MockSMS, MockSMX, MockSMS/MockSMX v2, or **any application under the "Mock\*" name** developed by Pratim Majumder.  
 
-For an improved user experience, certain personally identifiable information may be required. However, any such information is retained locally on your device and is **not collected** or stored by us directly.
+---
 
-The app utilizes third-party services that may collect information used to identify you. Below are links to the privacy policies of these third-party service providers:
+Pratim Majumder built the **MockSMS / MockSMX** app family as **Ad-Supported applications**. These services are provided at **no cost** and are intended for use *as-is*.
+
+This Privacy Policy explains our approach to data collection, use, and disclosure for users of any of the Mock\* apps.
+
+---
+
+### **Information Collection and Use**
+
+**We do not collect, store, or transmit any sensitive personally identifiable information (PII)** — such as your name, phone number, SMS content, contacts, passwords, financial information, or biometric data — **in any form, at any time, through any Mock\* app**.
+
+To provide and improve the experience, some non-sensitive technical data may be used. This data is either kept **on your device** or handled by trusted third-party services, **never collected directly** by us.
+
+The apps use third-party services that may collect analytics or error logs:
 
 * [AdMob (Google)](https://support.google.com/admob/answer/6128543?hl=en)
 * [Crashlytics (Firebase)](https://firebase.google.com/terms/crashlytics)
 
 ---
 
-### Log Data
+### **Log Data**
 
-In the event of an app error, the app may collect data and information—through third-party services—known as **Log Data**. This may include:
+In the case of an error or crash, third-party tools may collect technical diagnostic information such as:
 
-* Your device’s IP address
-* Device name and model
-* Operating system version
-* App configuration at the time of the error
-* Time and date of the error
-* Other relevant diagnostics
+* Device IP address
+* Device model and OS version
+* Time and date of error
+* App state/configuration during crash
 
-This data is collected to improve performance and troubleshoot issues.
+This data helps identify issues and improve app stability — it is **not linked to your personal identity**.
 
 ---
 
-### Cookies
+### **Cookies**
 
-Cookies are small data files that are often used as anonymous unique identifiers. While **MockSMS/MockSMX** does not use cookies directly, it may include third-party code or libraries that use cookies for analytics and service improvements.
+The Mock\* apps do **not use cookies directly**. However, integrated third-party libraries (for ads, analytics, crash reporting) may use cookies or similar tracking tools.
 
-You have the option to accept or refuse these cookies. However, refusing them may limit your ability to use certain features of the Service.
-
----
-
-### Links to Other Sites
-
-The app may contain links to external websites. Please note that these sites are not operated by Pratim Majumder. We strongly recommend reviewing the Privacy Policies of these websites, as we have no control over their content, policies, or practices.
+You can manage cookies from your device settings. Disabling them may affect some features.
 
 ---
 
-### Changes to This Privacy Policy
+### **Links to Other Sites**
 
-This Privacy Policy may be updated from time to time. You are advised to review this page periodically for any changes. Updates will be effective immediately upon posting on this page.
+The app may contain links to external sites not operated by us. Please review their privacy policies separately, as we hold no responsibility for their data practices or content.
 
 ---
 
-### Contact
+### **Changes to This Privacy Policy**
 
-If you have any questions, concerns, or suggestions regarding this Privacy Policy, feel free to reach out via email or in-app communication channels.
+This Privacy Policy may be revised occasionally. Any changes will be posted on this page and take effect immediately upon posting. You are encouraged to review it periodically.
+
+---
+
+### **Contact**
+
+If you have any questions, suggestions, or concerns about this Privacy Policy, please reach out via email or in-app contact options.
+
+---
+
+**By installing or using any Mock\* app (MockSMS, MockSMX, or its variants), you automatically agree to the terms of this Privacy Policy.**
+
+---
