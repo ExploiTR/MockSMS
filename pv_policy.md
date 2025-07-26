@@ -7,7 +7,6 @@
             <p>The app does use third party services that may collect information used to identify you.</p> 
             <p>Link to privacy policy of third party service providers used by the ap:p</p> 
             <p><a href="https://support.google.com/admob/answer/6128543?hl=en">AdMob</a> 
-            <p><a href="https://fabric.io/privacy">Fabric</a></p> 
             <p><a href="http://try.crashlytics.com/terms/privacy-policy.pdf">Crashlytics</a></p> 
             <h3>Log Data</h3>I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data.  
             This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, 
@@ -21,4 +20,4 @@
             <h3>Changes to This Privacy Policy</h3> 
             I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. 
              These changes are effective immediately after they are posted on this page. 
-            <h3>Contact Me</h3>If you have any questions or suggestions about my Privacy Policy, do not hesitate to <a href="https://exploitrme.wordpress.com">contact me.</a></p>
+            <h3>Contact Me</h3>If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me via discussions or email.</a></p>
