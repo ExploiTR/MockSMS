@@ -1,37 +1,100 @@
-<p>By downloading or using the app, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using the app.  
-            You’re not allowed to copy, or modify the app, any part of the app, or our trademarks in any way.</p> <p>You’re not allowed to attempt to extract the source code of the app,  
-            and you also shouldn't try to translate the app into other languages, or make derivative versions. The app itself,  
-            and all the trade marks, copyright, database rights and other intellectual property rights related to it, still belong to  
-            Pratim Majumder.</p><p>Pratim Majumder is committed to ensuring that the app is as useful and efficient as possible.  
-            For that reason, we reserve the right to make changes to the app or to charge for its services, at any time and for any reason.  
-            We will never charge you for the app or its services without making it very clear to you exactly what you’re paying for.</p> 
-            <h5>The MockSms app stores and processes personal data that you have provided to us, in order to provide my Service. 
-            It’s your responsibility to keep your phone and access to the app secure.We therefore recommend that you do not jailbreak or root your phone,  
-            which is the process of removing software restrictions and limitations imposed by the official operating system of your device. 
-            It could make your phone vulnerable to malware/viruses/malicious programs, compromise your phone’s security features and it could mean 
-            that the MockSms app won’t work properly or at all.</h5><p>You should be aware that there are certain things that Pratim 
-             Majumder will not take responsibility for.Certain functions of the app will require the app to have an active internet connection.  
-            The connection can be Wi-Fi, or provided by your mobile network provider, but Pratim Majumder cannot take responsibility 
-            for the app not working at full functionality if you don’t have access to Wi-Fi, and you don’t have any of your data allowance left.</p> 
-            <p>If you’re using the app outside of an area with Wi-Fi, you should remember that your terms of the agreement with your mobile network provider will still apply. 
-             As a result, you may be charged by your mobile provider for the cost of data for the duration of the connection while accessing the app, 
-             or other third party charges. In using the app, you’re accepting responsibility for any such charges, including roaming data charges if  
-            you use the app outside of your home territory (i.e. region or country) without turning off data roaming. If you are not the bill payer  
-            for the device on which you’re using the app, please be aware that we assume that you have received permission from the bill payer for  
-            using the app.</p><p>Along the same lines, Pratim Majumder cannot always take responsibility for the way you use the app i.e. You need  
-            to make sure that your device stays charged – if it runs out of battery and you can’t turn it on to avail the Service, Pratim Majumder 
-             cannot accept responsibility</p><p>With respect to Pratim Majumder’s responsibility for your use of the app, when you’re using the app,  
-            it’s important to bear in mind that although we endeavour to ensure that it is updated and correct at all times, we do rely on third  
-            parties to provide information to us so that we can make it available to you. Pratim Majumder accepts no liability for any loss, 
-             direct or indirect, you experience as a result of relying wholly on this functionality of the app.</p><p>At some point, we may wish to 
-             update the app. The app is currently available on Android and iOS – the requirements for both systems (and for any additional systems we decide 
-             to extend the availability of the app to) may change, and you’ll need to download the updates if you want to keep using the app. Pratim  
-            Majumder does not promise that it will always update the app so that it is relevant to you and/or works with the iOS/Android version that  
-            you have installed on your device. However, you promise to always accept updates to the application when offered to you, We may also wish to  
-            stop providing the app, and may terminate use of it at any time without giving notice of termination to you. Unless we tell you otherwise, 
-             upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must stop using the app, 
-             and (if needed) delete it from your device.</p><b>Changes to This Terms and Conditions</b><p>I may update our Terms and Conditions 
-             from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by  
-            posting the new Terms and Conditions on this page. These changes are effective immediately after they are posted on this page.</p><b> 
-            Contact Us</b><p>If you have any questions or suggestions about my Terms and Conditions,  
-            do not hesitate to <a href="https://exploitrme.wordpress.com">contact me.</a><p>
+## Terms and Conditions — MockSMS / MockSMX
+
+**Effective Date:** \[Insert Date]
+**Applies To:** MockSMS, MockSMX, MockSMS/MockSMX v2, or any application under the "Mock\*" name published by the Developer.
+
+---
+
+By downloading or using any of the Mock\* apps, you agree to the following Terms and Conditions. Please read them carefully before using the app.
+
+---
+
+### 1. License and Restrictions
+
+You are granted a limited, non-exclusive, non-transferable license to use the app for personal, non-commercial purposes.
+
+You are **not permitted** to:
+
+* Copy, modify, or reproduce any part of the app or its content
+* Attempt to extract the source code
+* Reverse-engineer or create derivative versions
+* Translate the app into other languages
+* Use the app or any associated trademarks without written permission
+
+All rights, including copyright, database rights, and intellectual property, remain the sole property of **the Developer**.
+
+---
+
+### 2. App Modifications & Monetization
+
+The Developer may enhance, modify, or remove features at any time, including introducing paid functionality. If the app or any of its services are ever subject to charges, it will be clearly disclosed to the user.
+
+---
+
+### 3. Personal Data and Security
+
+Mock\* apps may store and process basic personal data *you voluntarily provide* in order to deliver functionality.
+
+**No sensitive personally identifiable information (PII)** — such as your SMS content, contact list, passwords, financial data, or biometric data — **is ever collected, transmitted, or stored by the app.**
+
+To protect your data:
+
+* Keep your device and app access secure
+* Avoid rooting or jailbreaking your device, as this may compromise its security or interfere with the app’s functionality
+
+---
+
+### 4. Internet and Network Usage
+
+Some app features may require an active internet connection (Wi-Fi or mobile data). The Developer is not responsible for:
+
+* Reduced functionality due to lack of connectivity
+* Any charges from your network provider, including data usage or roaming fees
+
+If you're using the app on a device that you do not pay for, it is your responsibility to ensure you have permission from the bill payer.
+
+---
+
+### 5. Battery and Device Responsibility
+
+You are responsible for maintaining your device’s functionality, including keeping it charged. The Developer is not responsible if:
+
+* Your device loses power and you cannot access the app
+* You are unable to use the app due to device-related issues
+
+---
+
+### 6. External Services and Content
+
+Certain app features may depend on third-party services or content. While the Developer makes efforts to ensure accurate and up-to-date functionality, no liability is accepted for:
+
+* Errors or omissions in third-party data
+* Direct or indirect loss arising from reliance on external services
+
+---
+
+### 7. Updates and Termination
+
+Mock\* apps may be updated periodically. You agree to:
+
+* Accept and install updates when offered
+* Understand that certain updates may be necessary to continue using the app
+
+The Developer may stop providing the app or terminate its use at any time without prior notice. Upon termination:
+
+* Your right to use the app will cease
+* You must delete the app from your device
+
+---
+
+### 8. Changes to These Terms
+
+These Terms and Conditions may be updated occasionally. Updates take effect **immediately upon posting** on this page. You are encouraged to review this page periodically to stay informed.
+
+---
+
+### 9. Contact
+
+If you have any questions or feedback regarding these Terms and Conditions, please contact the Developer via Email or in-app support.
+
+---
