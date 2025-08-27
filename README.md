@@ -1,7 +1,10 @@
 ![](https://raw.githubusercontent.com/ExploiTR/MockSMS/master/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
 # Announcing : MockSMS2
 The next version of MockSMS, under development! So this project is archived.  
-Will be available soon at : [Google Play](https://play.google.com/store/apps/details?id=hacks.exploitr.mockSms)
+Will be available soon for download.
+
+## Terms of Use
+Please review our [Terms of Use](https://github.com/ExploiTR/MockSMS/blob/master/terms.md) before using this application.
 
 # MockSMS
 Android application to create/craft fake sms.
